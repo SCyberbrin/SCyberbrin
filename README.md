@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px">
 
-Im SCyberbrin.
-Im a programmer that likes to programmer and also likes to learn more.
+I'm SCyberbrin.
+I'm a self-taught programmer that likes to program and also likes to learn more.
 UwU
 
 
@@ -10,9 +10,9 @@ UwU
 - 🤔 The important question is:
 <img src="https://i.giphy.com/media/citBl9yPwnUOs/giphy.webp">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyberbrin&show_icons=true&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scyberbrin&show_icons=true&theme=jolly" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyberbrin&theme=jolly" /></a> |
+| ------------- | ------------- |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scyberbrin&theme=jolly)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **SCyberbrin/SCyberbrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
