@@ -10,7 +10,7 @@ UwU
 - 🤔 The important question is:
 <img src="https://i.giphy.com/media/citBl9yPwnUOs/giphy.webp">
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=scyberbrin&show_icons=true&theme=jolly" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=scyberbrin&theme=jolly" /></a> |
+|![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scyberbrin&show_icons=true&theme=jolly) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=scyberbrin&theme=jolly)|
 | ------------- | ------------- |
 
 
