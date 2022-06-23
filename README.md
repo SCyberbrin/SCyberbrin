@@ -1,4 +1,4 @@
-### Hi there <img src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="25px">
+### Hi there <img src="https://media0.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="20" height="20" />
 
 I'm SCyberbrin.
 I'm a self-taught programmer that likes to program and also likes to learn more.
